@@ -44,7 +44,7 @@ function gameEngine(){
         gameOverSound.play();
         musicSound.pause();
         inputDir ={x:0,y:0};
-        alert("game Over press any Key to palya the game.");
+        alert("GAME OVER , PRESS ARROW KEYS TO PLAY");
         snakeArr = [{x:13 , y:15}];
         musicSound.play();
         score=0;

@@ -32,6 +32,16 @@
     font-family: 'New Tegomin', serif;
 }
 
+#hiscoreBoxx{
+    position: absolute;
+    top: 100px;
+    right: 90px;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'New Tegomin', serif;
+}
+
+
 #board{
     background:linear-gradient(rgb(168, 214, 168) , yellow);
     width:90vmin;
