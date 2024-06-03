@@ -27,6 +27,8 @@ git clone https://github.com/UDAIBHAT/SNAKE-GAME.git
 - Run the index.html file
 - Start Playing!!!
 
+![Screenshot 1](snake.jpg)
+
 <h3> Live Link </h3>
 
 <a href="https://udaibhat.github.io/SNAKE-GAME/"> click it! </a>
